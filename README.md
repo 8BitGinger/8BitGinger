@@ -27,6 +27,8 @@ const Success = [determination, hard work, and vision]
 
 #### Enrolled at UTSA Full Stack Web Development Program [![JavaScript](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)]()
 
+---
+
 ## ⚡ Key Skills
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -55,14 +57,12 @@ const Success = [determination, hard work, and vision]
 [![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)]()
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![GoogleChrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
-
----
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8BitGinger&theme=blue-green)]()
+[![markdown](https://github-readme-stats.vercel.app/api?username=8BitGinger&theme=blue-green)]()
 
-## [![markdown](https://github-readme-stats.vercel.app/api?username=8BitGinger&theme=blue-green)]()
-
-## Education
+## 🏫 Education
 
 1. Full Stack Web Development at UTSA
 2. Bachelors of Business Administration Corllins University
