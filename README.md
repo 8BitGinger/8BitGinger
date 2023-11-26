@@ -99,7 +99,9 @@ const Success = [determination, hard work, and vision]
 
 ## 📱 Contact Me
 
-![screenshot](./8bit-avatar.png)
+<p align="center">
+  <img style="border-radius:50%" src="./8bit-avatar.png" />
+</p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ryan.fann@gmail.com)
 [![8BitGinger](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/8BitGinger)
