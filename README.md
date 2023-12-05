@@ -58,6 +58,10 @@ const Success = [determination, hard work, and vision]
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![GoogleChrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Handlebars.js](https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+
+---
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8BitGinger&theme=blue-green)]()
 [![markdown](https://github-readme-stats.vercel.app/api?username=8BitGinger&theme=blue-green)]()
