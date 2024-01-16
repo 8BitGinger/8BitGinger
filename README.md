@@ -113,6 +113,6 @@ const Success = [determination, hard work, and vision]
 [![8BitGinger](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/8BitGinger)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ryanfann)
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)](https://utsavirtfsfpt-gvi3942.slack.com/team/U05MCKH85D4)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin](https://www.linkedin.com/in/ryanfanntastic/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanfanntastic/)
 
 [![followMe](https://img.shields.io/github/followers/8BitGinger.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/8BitGinger)
