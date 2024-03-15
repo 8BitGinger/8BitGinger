@@ -10,7 +10,7 @@ const Success = [determination, hard work, and vision]
 
 ```
 
-![Banner](./8bit-header.png)
+[![Banner](./8bit-header.png)](https://ryanfann.netlify.app/)
 
 ## 😎 About Me
 
@@ -25,7 +25,7 @@ const Success = [determination, hard work, and vision]
 
 <span style="color:green"> <br> **_Looking for the right opportunity to turn my creativity, ingenuity, and positive attitude into your business advantage._** </span>
 
-#### Enrolled at UTSA Full Stack Web Development Program [![JavaScript](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)]()
+#### Completed the UTSA Full Stack Web Development Program [![JavaScript](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://bootcamp.utsa.edu/coding/landing-b5a/?s=Google-Brand_Tier-1_&dki=Learn%20Coding%20and%20More%20Online&pkw=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&pcrid=464375785329&pmt=b&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUT-SAN-ANTONIO%7CSEM%7CCODING%7C-%7COFL%7CTIER-1%7CALL%7CBRD%7CBMM%7CCore%7CGeneral&utm_term=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&s=google&k=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&utm_adgroupid=108681621083&utm_locationphysicalms=9028005&utm_matchtype=b&utm_network=g&utm_device=c&utm_content=464375785329&utm_placement=&gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpa7GHpSLYE-gr0cu5473O8gvKw7f1UQzreP2ZFJIjCDqbEQl_oglDQaAoAXEALw_wcB&gclsrc=aw.ds)
 
 ---
 
@@ -87,7 +87,11 @@ const Success = [determination, hard work, and vision]
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)]() -->
 <!-- [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)]() -->
-<!-- [![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)]() -->
+<!-- [![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)]()
+
+
+
+-->
 
 ---
 
@@ -107,23 +111,47 @@ const Success = [determination, hard work, and vision]
 
 ## 🔭 Project Screenshots
 
-#### <span style="color:yellow"> **_Full projects can be viewed on Portfolio!_** </span>
+#### <span style="color:yellow"> **_Full List of current projects can be viewed on Portfolio!_** </span>
+
+### Gumshoe RPG **_Detective Noir RPG_**
+
+[![screenshot](./screenshots/gumshoe-newlogo-rm.png)]()
+
+<details closed>
+<summary>Click Here to see more!</summary>
+<br>
+
+Click the image to view the live project!
+
+### Social Eyes **_The Anti-Social Media_**
+
+[![screenshot](./screenshots/socialEyes-sm.png)](https://antisocialeyes.onrender.com/)
+
+### SEO Services **_Modern Tech Company_**
+
+[![screenshot](./screenshots/seo-services-sm.png)](https://seoservices.onrender.com/)
 
 ### Weekly Moodal **_Mental Health Tracker_**
 
-![screenshot](./screenshots/screenshot-new.png)
-
-### JavaScript Quiz **_JavaScript Coding Quiz_**
-
-![screenshot](./screenshots/javaquizScreenshot.jpg)
+[![screenshot](./screenshots/weeklyMoodal-sm.png)](https://jameslwilson364.github.io/weeklyMoodal/)
 
 ### NoteTaker **_Express.js Backend_**
 
-![screenshot](./screenshots/noteTaker-Screenshot.png)
+[![screenshot](./screenshots/NoteTaker-sm.png)](https://nodenotes-js-8e31ec34cd5f.herokuapp.com/)
+
+### Quizzed **_JavaScript Coding Quiz_**
+
+[![screenshot](./screenshots/quizzed-sm.png)](https://8bitginger.github.io/quizzed/)
 
 ### Workforce Manager **_Back-End CRM_**
 
-![screenshot](./screenshots/crm-Screenshot.png)
+[![screenshot](./screenshots/workforce-sm.png)](https://8bitginger.github.io/workforceManager/)
+
+### Silver Knight RPG **_Text Based Node.js Game_**
+
+[![screenshot](./screenshots/silverKnight-sm.png)](https://8bitginger.github.io/silverKnightRPG/)
+
+</details>
 
 ---
 
