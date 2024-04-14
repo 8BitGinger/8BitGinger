@@ -115,7 +115,7 @@ const Success = [determination, hard work, and vision]
 
 ### Gumshoe RPG **_Detective Noir RPG_**
 
-[![screenshot](./screenshots/gumshoe-newlogo-rm.png)]()
+[![screenshot](./screenshots/gumshoeProject.jpg)](https://gumshoe.vercel.app/)
 
 <details closed>
 <summary>Click Here to see more!</summary>
@@ -125,31 +125,27 @@ Click the image to view the live project!
 
 ### Social Eyes **_The Anti-Social Media_**
 
-[![screenshot](./screenshots/socialEyes-sm.png)](https://antisocialeyes.onrender.com/)
+[![screenshot](./screenshots/socialEyesProject.jpg)](https://antisocialeyes.onrender.com/)
 
-### SEO Services **_Modern Tech Company_**
+### SkyRocket SEO **_Modern Tech Company_**
 
-[![screenshot](./screenshots/seo-services-sm.png)](https://seoservices.onrender.com/)
+[![screenshot](./screenshots/skyrocketSEOProject.jpg)](https://seoservices.onrender.com/)
 
 ### Weekly Moodal **_Mental Health Tracker_**
 
-[![screenshot](./screenshots/weeklyMoodal-sm.png)](https://jameslwilson364.github.io/weeklyMoodal/)
+[![screenshot](./screenshots/weeklyMoodalProject.jpg)](https://jameslwilson364.github.io/weeklyMoodal/)
 
 ### NoteTaker **_Express.js Backend_**
 
-[![screenshot](./screenshots/NoteTaker-sm.png)](https://nodenotes-js-8e31ec34cd5f.herokuapp.com/)
-
-### Quizzed **_JavaScript Coding Quiz_**
-
-[![screenshot](./screenshots/quizzed-sm.png)](https://8bitginger.github.io/quizzed/)
+[![screenshot](./screenshots/noteTakerProject.jpg)](https://nodenotes-js-8e31ec34cd5f.herokuapp.com/)
 
 ### Workforce Manager **_Back-End CRM_**
 
-[![screenshot](./screenshots/workforce-sm.png)](https://8bitginger.github.io/workforceManager/)
+[![screenshot](./screenshots/workforceManagerProject.jpg)](https://8bitginger.github.io/workforceManager/)
 
-### Silver Knight RPG **_Text Based Node.js Game_**
+### AI Image Generator **_Text to Image Generator OpenAI_**
 
-[![screenshot](./screenshots/silverKnight-sm.png)](https://8bitginger.github.io/silverKnightRPG/)
+[![screenshot](./screenshots/aiGenProject.jpg)](https://aigen-dth3.onrender.com/)
 
 </details>
 
@@ -165,7 +161,7 @@ Click the image to view the live project!
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ryan.fann@gmail.com)
 [![8BitGinger](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/8BitGinger)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ryanfann)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/the8bitginger)
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)](https://utsavirtfsfpt-gvi3942.slack.com/team/U05MCKH85D4)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanfanntastic/)
 
