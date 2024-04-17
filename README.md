@@ -10,7 +10,7 @@ const Success = [determination, hard work, and vision]
 
 ```
 
-[![Banner](./8bit-header.png)](https://ryanfann.netlify.app/)
+[![Banner](./screenshots/devBanner.jpg)](https://ryanfann.netlify.app/)
 
 ## 😎 About Me
 
@@ -25,13 +25,15 @@ const Success = [determination, hard work, and vision]
 
 <span style="color:green"> <br> **_Looking for the right opportunity to turn my creativity, ingenuity, and positive attitude into your business advantage._** </span>
 
-#### Completed the UTSA Full Stack Web Development Program [![JavaScript](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://bootcamp.utsa.edu/coding/landing-b5a/?s=Google-Brand_Tier-1_&dki=Learn%20Coding%20and%20More%20Online&pkw=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&pcrid=464375785329&pmt=b&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUT-SAN-ANTONIO%7CSEM%7CCODING%7C-%7COFL%7CTIER-1%7CALL%7CBRD%7CBMM%7CCore%7CGeneral&utm_term=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&s=google&k=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&utm_adgroupid=108681621083&utm_locationphysicalms=9028005&utm_matchtype=b&utm_network=g&utm_device=c&utm_content=464375785329&utm_placement=&gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpa7GHpSLYE-gr0cu5473O8gvKw7f1UQzreP2ZFJIjCDqbEQl_oglDQaAoAXEALw_wcB&gclsrc=aw.ds)
+#### Completed the UTSA Full Stack Web Development Program [![EdEx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://bootcamp.utsa.edu/coding/landing-b5a/?s=Google-Brand_Tier-1_&dki=Learn%20Coding%20and%20More%20Online&pkw=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&pcrid=464375785329&pmt=b&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUT-SAN-ANTONIO%7CSEM%7CCODING%7C-%7COFL%7CTIER-1%7CALL%7CBRD%7CBMM%7CCore%7CGeneral&utm_term=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&s=google&k=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&utm_adgroupid=108681621083&utm_locationphysicalms=9028005&utm_matchtype=b&utm_network=g&utm_device=c&utm_content=464375785329&utm_placement=&gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpa7GHpSLYE-gr0cu5473O8gvKw7f1UQzreP2ZFJIjCDqbEQl_oglDQaAoAXEALw_wcB&gclsrc=aw.ds)
 
 ---
 
 ## ⚡ Key Skills
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Python](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
@@ -47,7 +49,6 @@ const Success = [determination, hard work, and vision]
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)]()
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
@@ -59,25 +60,18 @@ const Success = [determination, hard work, and vision]
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Handlebars.js](https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]()
-[![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]()
 [![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 [![JSON Web Tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)]()
-[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)]()
 [![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)]()
 [![SemanticUI](https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white)]()
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)]()
 [![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)]()
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)]()
 [![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)]()
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)]()
-[![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)]()
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)]()
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)]()
 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)]()
@@ -88,7 +82,13 @@ const Success = [determination, hard work, and vision]
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)]() -->
 <!-- [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)]() -->
 <!-- [![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)]()
-
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]()
+[![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)]()
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)]()
+[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 
 
 -->
@@ -106,8 +106,7 @@ const Success = [determination, hard work, and vision]
 
 ## 📚 My Portfolio
 
-[![My Portfolio](https://img.shields.io/static/v1?label=My&message=Portfolio&color=31a8ff&style=for-the-badge)](https://8bitginger.github.io/studentPortfolio/)
-[![My Resume](https://img.shields.io/static/v1?label=My&message=Resume&color=green&style=for-the-badge)](https://8bitginger.github.io/resume/)
+[![My Portfolio](https://img.shields.io/static/v1?label=My&message=Portfolio&color=31a8ff&style=for-the-badge)](https://ryanfann.netlify.app/)
 
 ## 🔭 Project Screenshots
 
@@ -156,7 +155,7 @@ Click the image to view the live project!
 ## 📱 Contact Me
 
 <p align="center">
-  <img style="border-radius:50%" src="./8bit-avatar.png" />
+  <img style="border-radius:50%" src="./screenshots/8bit-smallContact.png" />
 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ryan.fann@gmail.com)
