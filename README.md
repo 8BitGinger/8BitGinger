@@ -33,7 +33,7 @@ const Success = [determination, hard work, and vision]
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Python](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
@@ -154,9 +154,9 @@ Click the image to view the live project!
 
 ## 📱 Contact Me
 
-<p align="center">
-  <img style="border-radius:50%" src="./screenshots/8bit-smallContact.png" />
-</p>
+<div align="center">
+
+[![contactIcon](./screenshots/8bit-smallContact.png)](https://ryanfann.netlify.app/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ryan.fann@gmail.com)
 [![8BitGinger](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/8BitGinger)
@@ -171,3 +171,4 @@ Click the image to view the live project!
 [![madewithlove](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://ryanfann.netlify.app/)
 
 </p>
+</div>
