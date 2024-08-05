@@ -76,6 +76,7 @@ const Success = [determination, hard work, and vision]
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)]()
 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 <!-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)]()
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
@@ -84,7 +85,6 @@ const Success = [determination, hard work, and vision]
 <!-- [![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)]()
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)]()
 [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
@@ -114,7 +114,7 @@ const Success = [determination, hard work, and vision]
 
 ### Gumshoe RPG **_Detective Noir RPG_**
 
-[![screenshot](./screenshots/gumshoeProject.jpg)](https://gumshoe.vercel.app/)
+[![screenshot](./screenshots/gumshoe-RM.png)](https://gumshoe.vercel.app/)
 
 <details closed>
 <summary>Click Here to see more!</summary>
@@ -122,29 +122,25 @@ const Success = [determination, hard work, and vision]
 
 Click the image to view the live project!
 
+### Social Up **_AI Powered Social Media Content Upscaler_**
+
+[![screenshot](./screenshots/socialUp-RM.png)](https://social-up.vercel.app/)
+
 ### Social Eyes **_The Anti-Social Media_**
 
-[![screenshot](./screenshots/socialEyesProject.jpg)](https://antisocialeyes.onrender.com/)
-
-### SkyRocket SEO **_Modern Tech Company_**
-
-[![screenshot](./screenshots/skyrocketSEOProject.jpg)](https://seoservices.onrender.com/)
-
-### Weekly Moodal **_Mental Health Tracker_**
-
-[![screenshot](./screenshots/weeklyMoodalProject.jpg)](https://jameslwilson364.github.io/weeklyMoodal/)
-
-### NoteTaker **_Express.js Backend_**
-
-[![screenshot](./screenshots/noteTakerProject.jpg)](https://nodenotes-js-8e31ec34cd5f.herokuapp.com/)
-
-### Workforce Manager **_Back-End CRM_**
-
-[![screenshot](./screenshots/workforceManagerProject.jpg)](https://8bitginger.github.io/workforceManager/)
+[![screenshot](./screenshots/socialEyes-RM.png)](https://antisocialeyes.onrender.com/)
 
 ### AI Image Generator **_Text to Image Generator OpenAI_**
 
-[![screenshot](./screenshots/aiGenProject.jpg)](https://aigen-dth3.onrender.com/)
+[![screenshot](./screenshots/aiGen-RM.png)](https://aigen-dth3.onrender.com/)
+
+### Weekly Moodal **_Mental Health Tracker_**
+
+[![screenshot](./screenshots/moodal-RM.png)](https://jameslwilson364.github.io/weeklyMoodal/)
+
+### Workforce Manager **_Back-End CRM_**
+
+[![screenshot](./screenshots/workforce-RM.png)](https://8bitginger.github.io/workforceManager/)
 
 </details>
 
