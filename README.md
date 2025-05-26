@@ -4,7 +4,6 @@
 
 ```
 
-let Ryan = "Your New Web Developer!"
 
 const Success = [determination, hard work, and vision]
 
@@ -14,18 +13,22 @@ const Success = [determination, hard work, and vision]
 
 ## 😎 About Me
 
-> ### Web Development Professional
+> ### IT and Web Maestro!
 >
-> with a strong background in
+> Web Creator and Developer with Experience in Network and IT management
+>
+> <span style="color:green"> <br> **_and a strong non-technical background in_** </span>
 >
 > <li>Management</li>
 > <li>Customer Service</li>
 > <li>Sales</li>
 > <br>
 
-<span style="color:green"> <br> **_Looking for the right opportunity to turn my creativity, ingenuity, and positive attitude into your business advantage._** </span>
-
 #### Completed the UTSA Full Stack Web Development Program [![EdEx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://bootcamp.utsa.edu/coding/landing-b5a/?s=Google-Brand_Tier-1_&dki=Learn%20Coding%20and%20More%20Online&pkw=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&pcrid=464375785329&pmt=b&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUT-SAN-ANTONIO%7CSEM%7CCODING%7C-%7COFL%7CTIER-1%7CALL%7CBRD%7CBMM%7CCore%7CGeneral&utm_term=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&s=google&k=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&utm_adgroupid=108681621083&utm_locationphysicalms=9028005&utm_matchtype=b&utm_network=g&utm_device=c&utm_content=464375785329&utm_placement=&gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpa7GHpSLYE-gr0cu5473O8gvKw7f1UQzreP2ZFJIjCDqbEQl_oglDQaAoAXEALw_wcB&gclsrc=aw.ds)
+
+#### Served as IT Admin and Engineer of Nexstar Stations KAMC and KLBK in Lubbock, Texas
+
+#### Quarantined by working as one Apples At Home Chat Support Representatives
 
 ---
 
