@@ -24,9 +24,11 @@ const Success = [determination, hard work, and vision]
 > <li>Sales</li>
 > <br>
 
-#### Completed the UTSA Full Stack Web Development Program [![EdEx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://bootcamp.utsa.edu/coding/landing-b5a/?s=Google-Brand_Tier-1_&dki=Learn%20Coding%20and%20More%20Online&pkw=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&pcrid=464375785329&pmt=b&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUT-SAN-ANTONIO%7CSEM%7CCODING%7C-%7COFL%7CTIER-1%7CALL%7CBRD%7CBMM%7CCore%7CGeneral&utm_term=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&s=google&k=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&utm_adgroupid=108681621083&utm_locationphysicalms=9028005&utm_matchtype=b&utm_network=g&utm_device=c&utm_content=464375785329&utm_placement=&gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpa7GHpSLYE-gr0cu5473O8gvKw7f1UQzreP2ZFJIjCDqbEQl_oglDQaAoAXEALw_wcB&gclsrc=aw.ds)
+#### Currently loving it as an IT Admin and Engineer at Nexstar Stations KAMC28 and KLBK13 in Lubbock, Texas
 
-#### Served as IT Admin and Engineer of Nexstar Stations KAMC and KLBK in Lubbock, Texas
+[![twinjobsIcon](./screenshots/twinJobs.png)](https://www.linkedin.com/in/ryanfanntastic/)
+
+#### Completed the UTSA Full Stack Web Development Program [![EdEx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://bootcamp.utsa.edu/coding/landing-b5a/?s=Google-Brand_Tier-1_&dki=Learn%20Coding%20and%20More%20Online&pkw=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&pcrid=464375785329&pmt=b&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUT-SAN-ANTONIO%7CSEM%7CCODING%7C-%7COFL%7CTIER-1%7CALL%7CBRD%7CBMM%7CCore%7CGeneral&utm_term=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&s=google&k=%2But%20%2Bsan%20%2Bantonio%20%2Bcoding&utm_adgroupid=108681621083&utm_locationphysicalms=9028005&utm_matchtype=b&utm_network=g&utm_device=c&utm_content=464375785329&utm_placement=&gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpa7GHpSLYE-gr0cu5473O8gvKw7f1UQzreP2ZFJIjCDqbEQl_oglDQaAoAXEALw_wcB&gclsrc=aw.ds)
 
 #### Quarantined by working as one Apples At Home Chat Support Representatives
 
@@ -157,17 +159,17 @@ Click the image to view the live project!
 
 [![contactIcon](./screenshots/8bit-smallContact.png)](https://ryanfann.netlify.app/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ryan.fann@gmail.com)
-[![8BitGinger](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/8BitGinger)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/the8bitginger)
-[![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)](https://utsavirtfsfpt-gvi3942.slack.com/team/U05MCKH85D4)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanfanntastic/)
-
 [![followMe](https://img.shields.io/github/followers/8BitGinger.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/8BitGinger)
 
 <p align="center">
 
 [![madewithlove](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://ryanfann.netlify.app/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ryan.fann@gmail.com)
+[![8BitGinger](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/8BitGinger)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/the8bitginger)
+[![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)](https://utsavirtfsfpt-gvi3942.slack.com/team/U05MCKH85D4)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanfanntastic/)
 
 </p>
 </div>
