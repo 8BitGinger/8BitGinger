@@ -157,7 +157,7 @@ Click the image to view the live project!
 
 <div align="center">
 
-[![contactIcon](./screenshots/8bit-smallContact.png)](https://ryanfann.netlify.app/)
+[![contactIcon](./screenshots/8bit-smallContact.png)](https://8bitginger.com)
 
 [![followMe](https://img.shields.io/github/followers/8BitGinger.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/8BitGinger)
 
