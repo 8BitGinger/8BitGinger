@@ -9,7 +9,7 @@ const Success = [determination, hard work, and vision]
 
 ```
 
-[![Banner](./screenshots/facebookBannerV2.jpg)](https://ryanfann.netlify.app/)
+[![Banner](./screenshots/8bitWallpaper.png)](https://ryanfann.netlify.app/)
 
 ## 😎 About Me
 
