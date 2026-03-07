@@ -9,7 +9,7 @@ const Success = [determination, hard work, and vision]
 
 ```
 
-[![Banner](./screenshots/8bitWallpaper.png)](https://ryanfann.netlify.app/)
+[![Banner](./screenshots/8bitWallpaper.png)](https://8BitGinger.com)
 
 ## 😎 About Me
 
@@ -82,9 +82,11 @@ const Success = [determination, hard work, and vision]
 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
 
 <!-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)]()
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)]() -->
 <!-- [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)]() -->
 <!-- [![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)]()
@@ -100,9 +102,9 @@ const Success = [determination, hard work, and vision]
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8BitGinger&layout=compact&theme=blue-green)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8BitGinger&layout=compact&theme=blue-green)
 
-![8BitGinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=8BitGinger&show_icons=true&theme=blue-green)
+![8BitGinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=8BitGinger&show_icons=true&theme=blue-green) -->
 
 ## 🏫 Education
 
@@ -112,7 +114,7 @@ const Success = [determination, hard work, and vision]
 
 ## 📚 My Portfolio
 
-[![My Portfolio](https://img.shields.io/static/v1?label=My&message=Portfolio&color=31a8ff&style=for-the-badge)](https://ryanfann.netlify.app/)
+[![My Portfolio](https://img.shields.io/static/v1?label=My&message=Portfolio&color=31a8ff&style=for-the-badge)](https://8BitGinger.com)
 
 ## 🔭 Project Screenshots
 
@@ -120,7 +122,7 @@ const Success = [determination, hard work, and vision]
 
 ### Gumshoe RPG **_Detective Noir RPG_**
 
-[![screenshot](./screenshots/gumshoe-RM.png)](https://gumshoe.vercel.app/)
+[![screenshot](./screenshots/gumshoe-RM.png)](https://gumshoerpg.com)
 
 <details closed>
 <summary>Click Here to see more!</summary>
@@ -164,7 +166,7 @@ Click the image to view the live project!
 
 <p align="center">
 
-[![madewithlove](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://ryanfann.netlify.app/)
+[![madewithlove](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://8BitGinger.com)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ryan.fann@gmail.com)
 [![8BitGinger](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/8BitGinger)
