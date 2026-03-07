@@ -100,8 +100,9 @@ const Success = [determination, hard work, and vision]
 
 ---
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8BitGinger&theme=blue-green)]()
-[![markdown](https://github-readme-stats.vercel.app/api?username=8BitGinger&theme=blue-green)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8BitGinger&layout=compact&theme=blue-green)
+
+![8BitGinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=8BitGinger&show_icons=true&theme=blue-green)
 
 ## 🏫 Education
 
