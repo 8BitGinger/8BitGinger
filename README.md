@@ -105,9 +105,9 @@ const Success = [determination, hard work, and vision]
 
 ## 🏫 Education
 
-1. Full Stack Web Development at UTSA
-2. Bachelors of Business Administration Corllins University
-3. Diploma from Shallowater High School
+1. Full Stack Web Development at UTSA attained 2024
+2. Bachelors of Business Administration attained 2011
+3. Diploma from Shallowater High School attained 2004
 
 ## 📚 My Portfolio
 
